@@ -14,6 +14,16 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
+
+
+.logo-svg{
+ height: 5rem;
+ width : 20rem;
+}
+
+
+
+
 :root {
 
   /**
@@ -352,7 +362,7 @@ body {
 .header .btn { display: none; }
 
 .header {
-  background-color: var(--white);
+  background-color: black;
   position: fixed;
   top: 0;
   left: 0;
